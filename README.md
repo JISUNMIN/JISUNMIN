@@ -30,7 +30,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <img src="https://camo.githubusercontent.com/02fb2ebb0aeba7584aa6c5f57e661180cccaf7ac488e9806a649e9f952ea04e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475785f746f6f6c6b69742d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d52656475785f746f6f6c6b6974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&amp;logo=Redux_toolkit&amp;logoColor=white" style="max-width: 100%;">
 
-그외 Tanstack Table, axios
+그외 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)Tanstack Table, axios
 
 제가 개발한 주요 프로젝트 입니다:
 
