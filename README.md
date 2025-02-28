@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=ffffff&text=Welcome-nl-&desc=to%20sunminJI%20gitHub!)
 
 
-안녕하세요 저는 프론트엔드 개발자 지선민입니다.
+안녕하세요 저는 만 3년 차 프론트엔드 개발자 지선민입니다.
 
 저는 운동 측정 및 관리 서비스 스타트업에서 풀스택 개발자로 일하며, 협업과 코드 품질 향상에 집중해왔습니다. 주요 업무로는 트레이너가 회원 예약을 관리하고 회원이 수업을 예약할 수 있는 예약 페이지를 개발했고, 구독 상품 및 결제 페이지도 개발했습니다. 또한, 회사 홈페이지 개편 프로젝트에서는 프론트엔드 개발을 전담하며 다양한 UI/UX 개선 작업을 진행했습니다.
 
