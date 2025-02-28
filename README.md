@@ -1,17 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=ffffff&text=Welcome-nl-&desc=to%20sunminJI%20gitHub!)
 
 
-안녕하세요! 저는 프론트엔드 개발자 지선민입니다.
+안녕하세요 저는 프론트엔드 개발자 지선민입니다.
 
-💡(1년 자사 서비스 회사 에서의 경력 ➕ 1년 7개월(2025년 2월 기준 현재 재직중)의 si 회사에서의 경력을 보유하고 있습니다.)
+저는 운동 측정 및 관리 서비스 스타트업에서 풀스택 개발자로 일하며, 협업과 코드 품질 향상에 집중해왔습니다. 주요 업무로는 트레이너가 회원 예약을 관리하고 회원이 수업을 예약할 수 있는 예약 페이지를 개발했고, 구독 상품 및 결제 페이지도 개발했습니다. 또한, 회사 홈페이지 개편 프로젝트에서는 프론트엔드 개발을 전담하며 다양한 UI/UX 개선 작업을 진행했습니다.
+DB 설계 및 API 개발 경험도 쌓았습니다. MySQL을 사용한 DB 설계와 Express로 API 개발을 진행한 경험이 있습니다. 
+현재는 SI 회사에서 프론트엔드 개발자로서 LG 프로젝트를 중심으로 Admin 페이지 개발을 담당하고 있으며, 지금까지 총 9개의 프로젝트를 수행해왔습니다.
+UI/UX 개선, 공통 컴포넌트 개발, 상태 관리 최적화 등 다양한 경험을 통해 사용자 경험을 개선하고 시스템 성능을 최적화하는 데 기여했습니다. 또한, 팀 내 코드 리뷰 프로세스를 도입하고, 클린 코드를 작성하도록 유도하여 코드 품질을 높였습니다. 이를 통해 효율적이고 유지보수 가능한 코드를 작성할 수 있도록 팀을 이끌고 있습니다.
+또한 이전의 풀스택 경험 덕분에 백엔드와의 협업이 원활하며, 서로의 요구사항을 쉽게 이해하고 정확하게 전달할 수 있습니다. 이러한 경험을 바탕으로 팀 내 소통을 효율적으로 이끌어가며, 프로젝트 요구사항에 맞춘 성공적인 협업을 이루어가고 있습니다.
 
-지난 1년 동안 풀스택으로 운동 측정 관리 서비스 회사에서 근무했습니다.
+현재 회사에서 사용 중인 기술입니다.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white),![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+그외 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ,Tanstack Table, axios
 
-그 경험을 통해 코드 포맷팅과 협업 능력을 향상시켰습니다.
-
-제가 과거에 주로 사용한 기술은 다음과 같습니다:
-
-
+이전 회사에서 사용 했던 기술입니다.
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -21,16 +25,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-
-현재는 LG 프로젝트를 주로 담당하는 SI 회사에서 프론트엔드 개발자로 근무중에 있습니다. 
-
-주로 사용하는 기술은 다음과 같습니다:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white),![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-그외 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ,Tanstack Table, axios
 
 제가 개발한 주요 프로젝트 입니다:
 
