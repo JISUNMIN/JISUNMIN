@@ -31,9 +31,6 @@ UI/UX 개선, 공통 컴포넌트 개발, 상태 관리 최적화 등 다양한 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-
-제가 개발한 주요 프로젝트 입니다:
-
 # 프로젝트 경험
 
 ## 1) 자사 홈페이지 회원관리/직원관리/CS관리 개발 및 유지보수  
