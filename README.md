@@ -81,9 +81,7 @@ Kanban 스타일의 작업(Task) 관리 웹 애플리케이션
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=JISUNMIN&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunmin&layout=compact&theme=radical&cache_seconds=86400
-)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JISUNMIN&layout=compact&theme=radical)
 
 
 ---
