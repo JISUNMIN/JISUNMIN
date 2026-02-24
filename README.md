@@ -51,6 +51,7 @@ Kanban 스타일의 작업(Task) 관리 웹 애플리케이션
 # ✍️ Tech Blog
 
 - Velog: https://velog.io/@sunmins/posts
+  Repo:  https://github.com/JISUNMIN/velog
 
 ---
 
