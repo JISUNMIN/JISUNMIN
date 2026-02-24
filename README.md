@@ -41,7 +41,6 @@ LogRocket · Highlight.io 도입을 통한 사용자 세션 기반 오류 추적
 - Angular 기반 웹 서비스 개발 및 배포
 - 예약·구독·결제 로직 구현
 - MySQL 설계 및 Express 기반 API 개발
-- 
 ---
 
 # 📎 Repo
