@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=ffffff&text=Welcome-nl-&desc=to%20sunmins%20GitHub!)
+![header](https://capsule-render.vercel.app/api?type=waving\&height=200\&color=gradient\&fontColor=ffffff\&text=Welcome-nl-\&desc=to%20sunmins%20GitHub!)
+
 
 안녕하세요.
 **사용자 경험 개선과 구조 설계에 강점을 가진 프론트엔드 엔지니어 지선민입니다.**
