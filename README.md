@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&fontColor=ffffff&text=Welcome&desc=to%20sunmins%20GitHub!&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&fontColor=ffffff&text=SUNMIN%20JI&desc=Frontend%20Engineer&descAlignY=65)
 
 
 안녕하세요.
