@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&fontColor=ffffff&text=SUNMIN%20JI&desc=Frontend%20Engineer&descAlignY=65)
 
 안녕하세요.
@@ -63,43 +62,27 @@ Angular · Ionic 기반 피트니스 웹·웹앱 개발
 
 디지털 아트 콘텐츠 및 서비스 운영 관리자 시스템
 
-**Period:** 티윈 재직 중  
-**Role:** Frontend Developer (프론트엔드 2~3명, 주요 개발 2명)
+**Role:** Frontend Developer (티윈 재직 중)
 
-![LG Digital Canvas](./images/lg-digital-canvas.png)
-
-**주요 개발 내용**
-
-- 이미지·영상 콘텐츠 등록·조회·수정 및 검색·필터 기능 개발
-- 콘텐츠 유형과 카테고리에 따른 동적 입력 및 파일 미리보기 구현
-- Shelf 콘텐츠 선택 모달 및 독립적인 페이지네이션 구현
+- 이미지·영상 콘텐츠 등록 및 관리, 검색·필터 UI 개발
+- 콘텐츠 유형에 따른 동적 입력 폼 및 파일 미리보기 구현
+- Shelf 콘텐츠 선택 모달과 독립적인 페이지네이션 구현
 - 다국어 콘텐츠 Excel 업로드·다운로드 기능 개발
-- 배너 승인·반려, 국가별 서비스 운영 설정 및 공지사항 관리
-- 드래그 앤 드롭 기반 파트너 앱 노출 순서 변경
-
-**문제 해결 경험**
-
-부모 화면과 콘텐츠 선택 모달에서 공통 Table 컴포넌트가 동일한 URL 쿼리 파라미터(`page`, `size`)를 사용하면서 페이지네이션이 충돌하는 문제가 있었습니다.
-
-독립적인 페이지네이션이 필요한 경우 쿼리 파라미터 키를 분리할 수 있도록 공통 Table 컴포넌트를 개선하여, 기존 사용 방식과의 호환성을 유지하면서 문제를 해결했습니다.
+- 공통 Table의 URL 쿼리 파라미터 충돌 해결 및 기존 사용 방식과의 호환성 유지
 
 ### 🎮 LG GamePortal
 
 게임 콘텐츠 추천 및 편성 관리자 시스템
 
-**Period:** 티윈 재직 중  
-**Role:** Frontend Developer (프론트엔드 2~3명, 주요 개발 2명)
+**Role:** Frontend Developer (티윈 재직 중)
 
-![LG GamePortal](./images/lg-gameportal.png)
-
-**주요 개발 내용**
-
-- 요구사항 분석 및 PowerPoint 기반 관리자 화면 기획
 - 배너·Shelf 콘텐츠 등록·조회·수정·삭제 기능 개발
-- React Hook Form 기반 배너 유형별 동적 입력 폼 및 조건부 유효성 검증
-- react-beautiful-dnd 기반 콘텐츠 노출 순서 변경
+- React Hook Form 기반 동적 입력 폼 및 조건부 유효성 검증
+- 드래그 앤 드롭 기반 콘텐츠 노출 순서 변경
 - 특정 위치 고정 조건을 고려한 콘텐츠 편성 기능 구현
 - 다국어 콘텐츠 Excel 업로드·다운로드 API 연동
+
+**👉 [실무 프로젝트 상세 내용 및 화면 보기](https://jisunmin.github.io/)**
 
 ---
 
@@ -115,20 +98,20 @@ Next.js 기반 이커머스 서비스
 - Prisma 기반 데이터베이스 연동
 - 다국어 및 반응형 UI 구현
 
-🔗 https://github.com/JISUNMIN/shop-app
+🔗 [GitHub Repository](https://github.com/JISUNMIN/shop-app)
 
 ### 📋 Task Manager
 
 React 기반 작업 관리 애플리케이션
 
-🔗 https://github.com/JISUNMIN/task-manager
+🔗 [GitHub Repository](https://github.com/JISUNMIN/task-manager)
 
 ---
 
 # ✍️ Tech Blog
 
-- Velog: https://velog.io/@sunmins/posts
-- Repository: https://github.com/JISUNMIN/velog
+- [Velog](https://velog.io/@sunmins/posts)
+- [Blog Repository](https://github.com/JISUNMIN/velog)
 
 ---
 
